@@ -1,0 +1,13 @@
+{
+  "name": "link-crawler",
+  "version": "0.0.1",
+  "description": "Crawling links till infinite.",
+  "main": "server.js",
+  "author": "Manwal",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest",
+    "underscore": "^1.8.3"
+  }
+}
